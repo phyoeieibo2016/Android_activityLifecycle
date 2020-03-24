@@ -1,4 +1,4 @@
-package mm.gov.activitylifecycle;
+package com.example.activitylifecycle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
